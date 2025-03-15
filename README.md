@@ -12,10 +12,11 @@ Utilize como base o Exercício 04, feito em Java que permitia ao usuário seleci
 # Exemplo de Fluxo Esperado
 	1.	O sistema exibe as opções de pagamento:
  
-	  ```   - Pix
+	```
+ 	  - Pix
           - Cartão de Crédito
           - Boleto
-    ```
+    	```
     
 	2.	O usuário escolhe uma opção digitando o número correspondente.
 	3.	O sistema solicita o valor da transação.
